@@ -1,0 +1,17 @@
+{
+  "products_audited": 15,
+  "non_compliant_products": 8,
+  "non_compliant_pct": 53.3,
+  "products_with_drug_claims": 10,
+  "products_missing_notification": 4,
+  "products_missing_bilingual": 3,
+  "avg_compliance_score": 56.4,
+  "claims_analysed": 10,
+  "critical_risk_claims": 2,
+  "hotlist_ingredients_reviewed": 10,
+  "checklist_steps": 10,
+  "regulatory_requirements_mapped": 8,
+  "most_common_gap": "Drug-like claims requiring product reclassification",
+  "best_compliant_product": "PurePath Micellar Cleansing Water (94)",
+  "least_compliant_product": "Arctic Botanics Scalp Treatment Oil (14)"
+}
